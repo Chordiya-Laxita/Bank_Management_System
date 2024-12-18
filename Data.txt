@@ -1,0 +1,11 @@
+sdfg,sdfg,5
+werg,fg,45
+qwer,sdfg,45
+payal,payal,45
+payal,payal1,567
+payal1,payal1,233
+0.0
+varnika,varnika,456,200.0
+0.0
+varnika,varnika,200,200.0
+varnika,varnika,200,200.0
